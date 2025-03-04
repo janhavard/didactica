@@ -1,0 +1,1 @@
+Simple web app for interacting with the ChatGPT in a bit more advanced way.
